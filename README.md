@@ -1,3 +1,3 @@
-## Microsoft Open Source Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft オープンソースコードの実施
+このプロジェクトは、 [Microsoft Open Source Code の倫理](https://opensource.microsoft.com/codeofconduct/)規定を採用しています。
+詳細については、「[よく寄せ](https://opensource.microsoft.com/codeofconduct/faq/)られる[opencode@microsoft.com](mailto:opencode@microsoft.com)質問」を参照するか、その他の質問やコメントをお寄せください。
